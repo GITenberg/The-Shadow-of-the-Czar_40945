@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40910'
     url: http://www.gutenberg.org/2009/agents/40910
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40945#The-Shadow-of-the-Czar
 gutenberg_issued: '2012-10-05'
 gutenberg_type: Text
 identifiers:
