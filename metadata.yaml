@@ -1,0 +1,28 @@
+_repo: The-Shadow-of-the-Czar_40945
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40945-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carling, John R.
+    gutenberg_agent_id: '40910'
+    url: http://www.gutenberg.org/2009/agents/40910
+description: ''
+gutenberg_issued: '2012-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Conspiracies -- Fiction'
+- !lcc 'PR'
+- !lcsh 'British -- Foreign countries -- Fiction'
+- !lcsh 'Europe, Eastern -- Fiction'
+- !lcsh 'Adventure stories'
+title: The Shadow of the Czar
+url: http://www.gutenberg.org/ebooks/40945
